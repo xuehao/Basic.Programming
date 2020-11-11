@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605098490 source:/home/xuehao/BasicProgramming/ Fundamentals.of.computer.programming(Tsinghua.University.2020.Fall)/10.PrintDaysNumber/main.c
+	<stdio.h>
+	<stdlib.h>
+	"zylib.h"
+
