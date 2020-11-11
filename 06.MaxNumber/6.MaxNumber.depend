@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604816986 source:/home/xuehao/BasicProgramming/6.MaxNumber/main.c
+	<stdio.h>
+	<stdlib.h>
+	"zylib.h"
+

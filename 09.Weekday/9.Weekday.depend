@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604832854 source:/home/xuehao/BasicProgramming/9.Weekday/main.c
+	<stdio.h>
+	<stdlib.h>
+	"zylib.h"
+
