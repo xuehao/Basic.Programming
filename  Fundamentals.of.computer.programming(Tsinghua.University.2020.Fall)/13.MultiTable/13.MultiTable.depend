@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605368079 source:/home/xuehao/Github/BasicProgramming/ Fundamentals.of.computer.programming(Tsinghua.University.2020.Fall)/13.MultiTable/main.c
+	<stdio.h>
+	<stdlib.h>
+	"zylib.h"
+
