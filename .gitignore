@@ -8,6 +8,7 @@
 graphics.ps
 .DS_Store
 .vscode
+*.depend
 
 # Prerequisites
 *.d
