@@ -9,6 +9,7 @@ graphics.ps
 .DS_Store
 .vscode
 *.depend
+*.layout
 
 # Prerequisites
 *.d
