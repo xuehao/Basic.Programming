@@ -18,7 +18,7 @@
 
 /* Main program */
 
-main()
+int main()
 {
     double gymnasticScores[NJudges];
     double total, average;

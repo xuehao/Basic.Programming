@@ -33,7 +33,7 @@ void ClearIntegerArray(int array[], int n);
 
 /* Main program */
 
-main()
+int main()
 {
     int letterCounts[NLetters];
 

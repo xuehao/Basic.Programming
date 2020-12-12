@@ -30,7 +30,7 @@ static void GiveInstructions(void);
 
 /* Main program */
 
-main()
+int main()
 {
     int list[MaxElements], n;
 
